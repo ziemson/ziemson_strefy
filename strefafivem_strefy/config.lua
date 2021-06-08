@@ -22,8 +22,6 @@ Config.NowePrzejecieStrefy = 1200 -- Czas który mija od przejęcia strefy
 Config.MaxDoOdejscia = 20 -- Jak daleko możesz odejść od kółeczka
 Config.CzarnaGotuwa = true -- Ustawiasz czy chcesz brudny czy zwykły hajs
 
-Config.WebhookDoLogow = "" -- Tutaj wklejasz webhooka do logów
-
 --d𝖎𝖘𝖈𝖔𝖗𝖉.𝖌𝖌/𝖘𝖙𝖗𝖊𝖋𝖆𝖋𝖎𝖛𝖊𝖒--
 
 Strefy = { -- Tutaj dodajesz sobie stefy
