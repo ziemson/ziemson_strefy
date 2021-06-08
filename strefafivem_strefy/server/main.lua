@@ -143,7 +143,7 @@ end)
 
 function wyslijdodiscordatyfajotempa(name,message,color)
 
-	local DiscordWebHook = Config.WebhookDoLogow
+	local DiscordWebHook = "" -- Tutaj wklejasz webhooka do logów
 	local date = os.date('*t')
 
 	if date.month < 10 then date.month = '0' .. tostring(date.month) end
